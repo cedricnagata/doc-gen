@@ -1,0 +1,12 @@
+{
+	"name": "doc-gen",
+    "version": "1.0.0",
+	"description": "document generator for docx and json to pdf",
+	"main": "func.js",
+	"author": "",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"@fnproject/fdk": ">=0.0.17",
+        "docx-templates": "^4.11.1"
+	}
+}
