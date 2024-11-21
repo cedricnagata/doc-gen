@@ -2,4 +2,6 @@ schema_version: 20180708
 name: doc-gen
 version: 0.0.1
 runtime: node
+build_image: fnproject/node:16-dev
+run_image: fnproject/node:16
 entrypoint: node func.js
